@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><puzzle><operacion><operando>767</operando><operador>+</operador><operando>39508</operando><resultado>40275</resultado></operacion><operacion><operando>202</operando><operador>*</operador><operando>36951</operando><resultado>7464102</resultado></operacion></puzzle>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<puzzle>
+  <operacion>
+    <operando>767</operando>
+    <operador>+</operador>
+    <operando>39508</operando>
+    <resultado>40275</resultado>
+  </operacion>
+  <operacion>
+    <operando>202</operando>
+    <operador>*</operador>
+    <operando>36951</operando>
+    <resultado>7464102</resultado>
+  </operacion>
+</puzzle>
