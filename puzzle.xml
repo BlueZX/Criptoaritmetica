@@ -1,0 +1,14 @@
+<puzzle>
+	<operacion>
+		<operando>ada</operando>
+		<operador>+</operador>
+		<operando>byron</operando>
+		<resultado>molar</resultado>
+	</operacion>
+	<operacion>
+		<operando>ada</operando>
+		<operador>*</operador>
+		<operando>byron</operando>
+		<resultado>leyenda</resultado>
+	</operacion>
+</puzzle>
